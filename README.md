@@ -10,6 +10,7 @@ UML tool for jzf
 ## 暂停
 
 目前所现有的uml工具中已经有了这个功能，并且有XMI这个名字
+> https://www.ibm.com/developerworks/library/x-umlschem/index.html
 ## 功能点
 
 * uml绘制
